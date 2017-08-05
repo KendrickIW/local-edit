@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KendrickIW/local-edit/issues"
   },
-  "homepage": "https://github.com/KendrickIW/local-edit#readme"
+  "homepage": "https://github.com/KendrickIW/local-edit#readme",
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
 }
