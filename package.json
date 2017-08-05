@@ -1,0 +1,19 @@
+{
+  "name": "local-edit",
+  "version": "1.0.0",
+  "description": "Text editor for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KendrickIW/local-edit.git"
+  },
+  "author": "Kendrick Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KendrickIW/local-edit/issues"
+  },
+  "homepage": "https://github.com/KendrickIW/local-edit#readme"
+}
